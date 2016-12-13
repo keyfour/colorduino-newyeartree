@@ -1,6 +1,8 @@
 
 # New Year Tree on Colorduino controlled 8x8 LED Matrix
 
+![NewYearTreeDemo](https://cloud.githubusercontent.com/assets/10725294/21159721/4b12248c-c193-11e6-8e5b-389e46aa7f6e.gif)
+
 ## Download
 
 ```
